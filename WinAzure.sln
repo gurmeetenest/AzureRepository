@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WinAzure", "WinAzure.ccproj", "{A6F1B7BD-8410-41A0-BA36-86AE54C53A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{FF4CD377-A3D8-4C7D-8511-7273462AF4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F1B7BD-8410-41A0-BA36-86AE54C53A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F1B7BD-8410-41A0-BA36-86AE54C53A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F1B7BD-8410-41A0-BA36-86AE54C53A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F1B7BD-8410-41A0-BA36-86AE54C53A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4CD377-A3D8-4C7D-8511-7273462AF4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4CD377-A3D8-4C7D-8511-7273462AF4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4CD377-A3D8-4C7D-8511-7273462AF4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4CD377-A3D8-4C7D-8511-7273462AF4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
